@@ -6,6 +6,9 @@ channels:
   - defaults
 dependencies:
   - python=3.10
+  - torch
+  - torchvision
+  - torchaudio
   - pip
   - numpy=1.21.5
   - scipy=1.7.3
